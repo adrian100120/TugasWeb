@@ -1,0 +1,9 @@
+.panorama {
+    height: 400px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.panorama img {
+    height: 100%;
+}
